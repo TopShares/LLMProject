@@ -1,0 +1,10 @@
+openai
+python-dotenv
+streamlit
+matplotlib
+jupyterlab
+langchain
+Langchain-community
+langchain-ollama
+dashscope
+chromadb

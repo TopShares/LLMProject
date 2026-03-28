@@ -1,0 +1,7 @@
+conda activate test_python_3.13
+
+激活：conda activate 环境名
+退出：conda deactivate
+查看所有环境：conda env list
+
+
