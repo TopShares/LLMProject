@@ -5,3 +5,6 @@ conda activate test_python_3.13
 查看所有环境：conda env list
 
 
+配置windows的系统环境变量
+OPENAI_API_KEY=
+DASHSCOPE_API_KEY

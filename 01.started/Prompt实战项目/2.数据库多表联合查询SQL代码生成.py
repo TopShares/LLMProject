@@ -4,7 +4,7 @@ import streamlit as st  # 使用Python去创建前端页面
 from dotenv import load_dotenv
 from openai import OpenAI
 
-# 加载环境变量  pip install streamlit
+# 加载环境变量
 load_dotenv()
 # 使用千问的模型
 client = OpenAI(api_key=os.getenv("DASHSCOPE_API_KEY"), base_url=os.getenv("DASHSCOPE_BASE_URL"))
